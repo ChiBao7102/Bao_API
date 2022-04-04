@@ -1,0 +1,18 @@
+[
+    {
+        "model": "Toyota",
+        "license_plates": "43E1 2222",
+        "carrier_pep": 5,
+        "price": 50000,
+        "img_car": "./img/123",
+        "id_renter": "4"
+    },
+    {
+        "model": "aaaa",
+        "license_plates": "43E1 2222",
+        "carrier_pep": 5,
+        "price": 50000,
+        "img_car": "./img/123",
+        "id_renter": "5"
+    }
+]
